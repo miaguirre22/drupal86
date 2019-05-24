@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9494ee47-e48e-4809-aa8d-5d263fcc1a27" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/contrib/bootstrap_barrio/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/contrib/bootstrap_barrio/README.txt" afterDir="false" />
@@ -1655,6 +1656,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/drupal86.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/drupal86.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/sites/default/files/languages/es_FdgzoQz5uZNd9YPK7mOc5ezV_XebRY52RidliXijgAQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/behat/mink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink-selenium2-driver" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/behat/mink-selenium2-driver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/drupal/coder" afterDir="false" />
+>>>>>>> theme
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1666,7 +1673,21 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> theme
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -1677,7 +1698,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="theme" />
+=======
+        <entry key="$PROJECT_DIR$" value="master" />
+>>>>>>> theme
       </map>
     </option>
   </component>
@@ -1770,7 +1795,7 @@
       <path value="$PROJECT_DIR$/vendor/behat/mink" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="805" />
     <option name="height" value="703" />
   </component>
@@ -1779,7 +1804,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1790,17 +1814,21 @@
             <path>
               <item name="drupal86" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal86" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="sites" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="drupal86" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal86" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> theme
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1834,12 +1862,28 @@
       <updated>1554471285304</updated>
       <workItem from="1554471286728" duration="599000" />
       <workItem from="1554724111189" duration="2691000" />
+<<<<<<< HEAD
       <workItem from="1558006010769" duration="1743000" />
+=======
+      <workItem from="1558017804372" duration="2204000" />
     </task>
+    <task id="LOCAL-00001" summary="jugando con themes y ramas. commit a la master">
+      <created>1558018749743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558018749743</updated>
+>>>>>>> theme
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5033000" />
+=======
+    <option name="totallyTimeSpent" value="6563000" />
+>>>>>>> theme
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
@@ -1858,7 +1902,11 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32854864" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32961783" />
+>>>>>>> theme
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1868,11 +1916,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jugando con themes y ramas. commit a la master" />
+    <option name="LAST_COMMIT_MESSAGE" value="jugando con themes y ramas. commit a la master" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="4335">
           <caret line="289" column="63" lean-forward="true" selection-start-line="289" selection-start-column="63" selection-end-line="289" selection-end-column="63" />
+=======
+        <state relative-caret-position="210">
+          <caret line="289" column="63" selection-start-line="289" selection-start-column="63" selection-end-line="289" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/bootstrap_barrio/config/install/bootstrap_barrio.settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+>>>>>>> theme
         </state>
       </provider>
     </entry>
