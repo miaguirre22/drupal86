@@ -303,7 +303,7 @@ $settings['hash_salt'] = 'nLzCUXdwXbO9on1pf5aQ3fE5cfGHHNtchOVbZlR0B8VnRuK88tEtOo
  * After finishing the upgrade, be sure to open this file again and change the
  * TRUE back to a FALSE!
  */
-$settings['update_free_access'] = TRUE;
+$settings['update_free_access'] = FALSE;
 
 /**
  * External access proxy settings:
@@ -779,3 +779,7 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $config_directories['sync'] = 'sites/default/files/config_xk08pLhngja_s0Egpv9ckqJAWDYEYSOF4eI4J-UQIsJMrz85tOW9OBMCymu7UitnngXy0EApeQ/sync';
+
+$settings['trusted_host_patterns'] = [
+  '^drupal86.com$',
+];
